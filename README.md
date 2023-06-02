@@ -23,4 +23,7 @@ ogb==1.3.5
 openne==2.0
 
 ## How to run ?
+
+```
 python3 main_augmentation.py --dataset $DATASET --way $WAY --shot $SHOT --augmentation_method $METHOD --augmentation_parameter $PARAMETER
+```
